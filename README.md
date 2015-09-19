@@ -19,7 +19,7 @@ Une fois qu'on a analysé ces types de brique. Sachant qu'on construit une maiso
 
 Installer le projet :
 ```
-Git clone https://github.com/ux-republic/code-review.git
+Git clone https://github.com/logu/test-unitaire.git
 cd unit-test
 npm init
 ```
